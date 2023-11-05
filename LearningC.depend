@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699219571 source:c:\desktop\learningc\punteros.c
+	<stdio.h>
+
+1699227026 source:c:\desktop\learningc\arrays.c
+	<stdio.h>
+
+1699227670 source:c:\desktop\practicas\learningc\arrays.c
+	<stdio.h>
+
+1699219571 source:c:\desktop\practicas\learningc\punteros.c
+	<stdio.h>
+
+1699227648 source:c:\desktop\practicas\learningc\main.c
+	<stdio.h>
+
